@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Carlos Serafim
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor`**
 
 Me chamo Carlos, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia. Tenho experiência em Java e JavaScript, além de trabalhar com frameworks como React e Spring.
 
